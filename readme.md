@@ -2,7 +2,7 @@
 
 This document describes my approach to the Enterprize Rag Challenge 2 competition, which secured me second place overall and a shared first prize in the speed category. The approach is notable for not utilizing traditional search tools, neither full-text nor vector-based, yet it achieved high retrieval accuracy (86.3 in the R column of the results table).
 
-# Initial Document Processing
+# Initial Document Processing 
 
 ## File: pdf_convert_and_cleanup.py
 
