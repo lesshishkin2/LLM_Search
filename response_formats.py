@@ -112,26 +112,3 @@ class MetaDocumentInfo(BaseModel):
         ...,
         description="Determine in which currency the financial statememts are presented this report. (US dollars, Japanese yens, etc)"
     )
-
-
-class MetaPageInfo(BaseModel):
-    class YesAnswer(BaseModel):
-        answer_kind: Literal["Yes"]
-        currency: str = Field(
-            ..., description="Currency used in the Financial Statements in full form (US dollars, Japanese yens, etc)")
-
-    class NoAnswer(BaseModel):
-        answer_kind: Literal["No"]
-
-    chain_of_thought: str = Field(
-        ...,
-        description="The chain of reasoning preceding your precise answer."
-    )
-    page_is_cover_of_form_10_k: bool = Field(
-        ...,
-        description="Is this page the cover page of FORM 10-K?"
-    )
-    has_direct_indication_of_currency: Union[YesAnswer, NoAnswer] = Field(
-        ...,
-        description="Is there a DIRECT indication of the currency used in the Financial Statements of this report? (Not just '$' sign)"
-    )
