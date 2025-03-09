@@ -1,0 +1,802 @@
+{
+    "31e16caf2a6d45fb9cc41fb158b49933df4895f7": {
+        "chain_of_thought": "After carefully reviewing the provided pages of the annual report, I noted that many sections repeatedly refer to figures “as of December 31, 2022” and for the “years ended December 31, 2022” which clearly indicates that the most recent reporting period ended on December 31, 2022 – meaning the last reporting period ended in December (month 12) of 2022. Additionally, the financial statements display monetary amounts with a dollar sign and mention compliance with U.S. GAAP and auditing under U.S. GAAS. This evidence confirms that the financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "957f31e694198a1695d14aa512a972ab6f3c55b5": {
+        "chain_of_thought": "I began by identifying that several key sections reference the period‐end date, with repeated phrases such as 'For the year ended December 31, 2022' and balance sheet and income statement items dated December 31, 2022; this indicates that the latest reporting period ended in December 2022. In addition, all the numerical amounts are reported with a dollar sign ($) and reference U.S. GAAP, which confirms that the financial statements are presented in U.S. dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "U.S. dollars"
+    },
+    "8467b7fce0d860b56e30c79d253d0bb5e9a32e95": {
+        "chain_of_thought": "I carefully reviewed the excerpts from the annual report and noted that nearly every financial statement and narrative references the reporting period ending on December 31, 2022. The consolidated balance sheets, income statements, and notes consistently use the date December 31, 2022 as the end of period. In addition, the statements refer to amounts in dollars (with the use of the $ symbol and the phrase \"dollars in thousands\"), and the company is based in Minnesota, indicating that the financial statements are prepared in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "6406e378c1f49a29c836633f187c271b30b50183": {
+        "chain_of_thought": "I reviewed several key sections of the report. The Independent Auditors' Report and the financial statement headers repeatedly state that the accounts are for the year ended 31 March 2022. In addition, the Group and Company Statements of Financial Position and other key statements clearly indicate that the figures are reported in Pound Sterling. Therefore, the last reporting period ended in March 2022 and the financial statements are presented in Pound Sterling.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 3
+        },
+        "currency_of_financial_statements": "Pound Sterling"
+    },
+    "2cdfd39bbf896b0f6651ebb0fe697cdf8c7ef0e8": {
+        "chain_of_thought": "I reviewed multiple sections of the report and noted that the report and financial statements repeatedly refer to the period 'for the year ended December 31, 2022'. This indicates that the last reporting period ended in December 2022 (month 12, year 2022). In addition, all monetary amounts are denoted with the dollar sign and the context indicates a U.S.-based company with operations in Delaware, so the financial statements are presented in United States dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "e30ece688caf7602b734bbbcf39559b4acdb2739": {
+        "chain_of_thought": "The report repeatedly refers to the fiscal period ending on August 31, 2022 – for example, it mentions 'for the fiscal year ended August 31, 2022' in the Business section and several places in the MD&A. This clearly indicates that the last reporting period ended in August 2022. In addition, all of the financial figures are indicated with a dollar sign and the discussion of the company’s headquarters in Utah along with its NYSE listing confirm that the amounts are presented in United States dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 8
+        },
+        "currency_of_financial_statements": "United States dollars"
+    },
+    "51bae8eeb78cf7d8d96c5cb66c36c41c6bd71491": {
+        "chain_of_thought": "I first looked for clues about the reporting period end date. In Appendix A the reconciliations from GAAP to Non‐GAAP are shown with columns labeled for the years ended December 31, 2022, December 25, 2021 and December 26, 2020. The most recent period is thus December 31, 2022. In addition, throughout the document all monetary figures are displayed with a dollar sign and the narrative identifies Infinera as a US-based company operating under US GAAP. Hence the financial statements are presented in U.S. dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "U.S. dollars"
+    },
+    "674a255d82495ef40189645697460801193e5a2d": {
+        "chain_of_thought": "I scanned the report and observed multiple references to the reporting period. In several places – for example in the Statement from the Board – the report states that it is for the year ended 31 December 2022, which indicates that the last reporting period ended in December 2022. In addition, in the general information section the report states that the consolidated financial statements are presented in Hong Kong dollars (HK$), which is the functional currency of the company. Therefore, the end of the reporting period is December 2022 and the financial statements are presented in Hong Kong dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "Hong Kong dollars"
+    },
+    "c74139ce26a6f803725f5074a8a0f539abb99c09": {
+        "chain_of_thought": "I reviewed the excerpt and noted multiple references to the reporting date. Several pages mention '31 December 2022', which clearly indicates that the last reporting period ended in December 2022. Additionally, throughout the document nearly all monetary amounts are expressed with the euro symbol (€), confirming that the financial statements are presented in euros.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "Euros"
+    },
+    "2db41ba86cc015db1f5f7de00b764a06e6de3dcc": {
+        "chain_of_thought": "Upon reviewing multiple sections in the report, I noted several references that confirm the reporting period ended at the end of 2022. For example, the pension valuation mentions '31 December 2022', and the financial figures (such as revenue, net debt, and cash balances) are labeled with figures corresponding to 2022 versus previous year 2021. These collectively indicate that the last reporting period ended in December 2022. In addition, all the monetary values are prefixed with the symbol '£', which is used for British pounds – meaning the financial statements are presented in British pounds (pounds sterling).",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "British pounds"
+    },
+    "e2923f240db86d0096f462f6cb398339d3251b50": {
+        "chain_of_thought": "The report clearly indicates on its cover and in the disclosures that the fiscal year ended December 31, 2022, which sets the end of the last reporting period as December 2022. Additionally, throughout the consolidated financial statements, amounts are presented with the dollar sign and referenced in thousands under US GAAP. These factors show the financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "12bff07b957b1c8f8cad9d917ca18005720cce9b": {
+        "chain_of_thought": "I reviewed the extracted pages of the annual report and noted that the Directors’ Report and subsequent disclosures refer to the financial year as ending on 3 July 2022. This clearly indicates that the last reporting period ended in July 2022. In addition, the report’s accounting policies explain that the financial statements are prepared and presented in the company’s functional and presentation currency – which is stated to be Australian dollars. Therefore, the end of the period is July 2022 and the currency is Australian dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 7
+        },
+        "currency_of_financial_statements": "Australian dollars"
+    },
+    "5bb5f71d1457f3272adab97d64a79c300da75cea": {
+        "chain_of_thought": "I reviewed multiple sections of the excerpt and noted that many key financial figures and summaries repeatedly reference data for the year ended 31 December 2022 – for example, net debt and revenue figures are consistently described as of 31 December 2022. This clearly indicates that the last reporting period ends in December 2022. In addition, all financial values throughout the report are presented with a dollar sign (e.g. $44,351 million in Total Revenue, EPS of $2.12, etc.), and given that AstraZeneca files its Form 20-F for US investors, the financial statements are consolidated in US dollars. Therefore, the reporting period end is December 2022 and the currency is US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "79ffb9b8682aa565172233c070a47d944464644c": {
+        "chain_of_thought": "The report repeatedly references data 'as of December 31, 2022' (for example, capital resources and net losses are reported as of that date), which clearly indicates that the last reporting period ended in December 2022. In addition, the company’s address, telephone number, and dollar-denoted figures (e.g., $283.1 million) all indicate that the financial statements are prepared in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "2e315764be39701457b88c23f70c5ddede4b2453": {
+        "chain_of_thought": "I looked through the financial statements and other sections of the report and found multiple references to “For the year ended 30 September 2022”. This tells us that the last reporting period ended in September 2022. In addition, the figures are prefixed with the pound sign (e.g. ‘£4,708.4m’), confirming that the financial statements are presented in British pounds (Pound sterling).",
+        "end_of_period": {
+            "year": 2022,
+            "month": 9
+        },
+        "currency_of_financial_statements": "British pounds"
+    },
+    "3bb894b4201667baf60b0b2c8a47109fa2357acb": {
+        "chain_of_thought": "I scanned through the report’s pages and found several clear references indicating that the financial statements cover the period ending 30 June 2022 – for example, the Chairman’s report, Directors’ report, and Notes all refer to the year ended 30 June 2022. In addition, Note 1 clearly states that “the financial statements are presented in Australian dollars, which is Rectifier Technologies Ltd's functional and presentation currency.” Based on these findings, the reporting period ended in June 2022 and the financial statements are presented in Australian dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 6
+        },
+        "currency_of_financial_statements": "Australian dollars"
+    },
+    "e6ce8ed579e95d2cfeabbbed872beb0c3f8396d7": {
+        "chain_of_thought": "Reviewing the report we found that on page 3 the reporting period is defined as 1 July 2021 to 30 June 2022 and on the Directors' Report it clearly states the financial year ended 30 June 2022. Since the report is issued by an Australian company and almost all monetary amounts (except where New Zealand results are separately reported with NZ$) are denoted with a dollar sign, the consolidated financial statements are presented in Australian dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 6
+        },
+        "currency_of_financial_statements": "Australian dollars"
+    },
+    "53aa4bfb3b29d7fc064e97626fc4f860942ca9fd": {
+        "chain_of_thought": "The report repeatedly states that it is for the year ended 30 September 2022, which indicates that the reporting period ended in September 2022. Furthermore, the financial statements are presented in amounts using the pound symbol (£) and the notes confirm that the financial statements are prepared in pounds sterling.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 9
+        },
+        "currency_of_financial_statements": "pounds sterling"
+    },
+    "a69ebee82a9acd54117407ca3697db0d7bfbfdac": {
+        "chain_of_thought": "I read through the MD&A and the auditors' report where it consistently refers to the fiscal year ended December 31, 2022. This tells me that the last reporting period ended in December 2022. All numerical amounts are presented with a dollar sign, and given the US location and context (the company is HCA Healthcare, headquartered in Tennessee), the financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "78c71282723c2d66216cbba13183d19349d302b8": {
+        "chain_of_thought": "The cover and initial pages of the report indicate that the Annual Report is for the fiscal year ended December 31, 2022. This gives us a reporting period end date in December 2022. In addition, throughout the financial statements (e.g., the consolidated income statement, balance sheet, and cash flow statements), amounts are expressed in thousands of United States dollars. Therefore, the financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "e229fc9f5c694e93b02ac312c231607a04e3e528": {
+        "chain_of_thought": "I reviewed the excerpts provided and noted several references to financial statements labeled for dates ending on December 31, 2022 – for example, the consolidated balance sheets and statements of operations are presented for the year ended December 31, 2022. In addition, the company is based in New York and the values are expressed using a dollar sign, which along with the context of a U.S. SEC filing indicates that the financial statements are prepared in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "d86be8a2fa1aab721d7de6de7fd4f5267c914cb2": {
+        "chain_of_thought": "The report repeatedly refers to the period 'For the Year Ended December 31, 2022', clearly indicating that the final reporting period ended in December 2022. In addition, numerous notes state that amounts are presented in thousands of Canadian dollars. Therefore, the last reporting period ended in December 2022 and the financial statements are presented in Canadian dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "Canadian dollars"
+    },
+    "71d137454a1524843e1f49b34603438510232919": {
+        "chain_of_thought": "The report consistently refers to financial statements 'for the year ended 30 June 2022' as seen in the Consolidated Income Statement, Balance Sheet and related notes. The amounts are presented in '£' (pounds) which, given that the company is based in the United Kingdom, indicates that the financial statements are presented in British pounds sterling.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 6
+        },
+        "currency_of_financial_statements": "British pounds sterling"
+    },
+    "6159f86f38ec4f82453d99a01c22f1847de133c6": {
+        "chain_of_thought": "I reviewed the provided excerpt and found in the risk factors section the statement that the company’s net losses were for the years ended December 31, 2022 (and 2021), which indicates that the most recent reporting period ended in December 2022. In addition, all monetary amounts were shown with a dollar sign and, given that the company is a U.S.-listed entity (trading on Nasdaq) and all numbers are expressed in dollars, it is clear that the financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "446545ae548543d8744f8d885ff75face3424ba4": {
+        "chain_of_thought": "By reviewing multiple sections of the report – including the financial statements and performance tables – we observed that the report consistently refers to figures for the “years ended December 31, 2022” (with comparisons to 2021 and 2020). That establishes that the last reporting period ended in December 2022 (i.e. month 12 of 2022). In addition, all monetary amounts are presented with the '$' symbol and are referenced in contexts typical for US filings (e.g., SEC, Nasdaq listings), which confirms that the financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "5a24fa827d172a7669eca206b2a5f47c2b19b48d": {
+        "chain_of_thought": "We carefully reviewed multiple financial statement sections and balance sheet dates which repeatedly mention December 31, 2022 as the period‐end date. For example, the Consolidated Balance Sheets and Statements of Operations both state results for the year ended December 31, 2022. Also, given that the company is a U.S. company headquartered in San Diego and all amounts are indicated with a '$' sign, the financial statements are presented in United States dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "United States dollars"
+    },
+    "14fa568899745270c4ff2c10073f97f2c2e7764b": {
+        "chain_of_thought": "I reviewed multiple sections of the annual report, including the consolidated financial statements and the balance sheets, which repeatedly refer to the period ending December 31, 2022. In addition, the headings clearly indicate that the values are presented in \"thousands of Canadian dollars.\" This confirms that the last reporting period ended in December 2022, and the financial statements are presented in Canadian dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "Canadian dollars"
+    },
+    "e1edf72618e9d6ae2e72bb3ac7a9ddc15240e4ef": {
+        "chain_of_thought": "I reviewed the annual report details provided. The financial statement sections and MD&A repeatedly refer to the fiscal year ended December 31, 2022, which indicates that the last reporting period ended in December 2022 (month 12 of 2022). In addition, in the Basis of Presentation note it is stated that the Company’s functional currency is the U.S. dollar. Therefore, the financial statements are presented in U.S. dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "U.S. dollars"
+    },
+    "91caa5884d3fbc344a05ac2f1d113a5d8725e4cb": {
+        "chain_of_thought": "We reviewed multiple sections of the report – including the Income Statements, Balance Sheets, and Cash Flow Statements – all of which indicate that the financial period covered ends on June 30, 2022. In addition, references such as “Year Ended June 30, 2022” and consistent use of the dollar sign in amounts, along with mention of trading on the NASDAQ, confirm that the financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 6
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "92d9de8e4db96e0b95a484afcd1c54c6beb62c03": {
+        "chain_of_thought": "I reviewed the financial statement sections including the balance sheets and the statements of operations, which consistently reference figures “as of December 31, 2022” and “for the year ended December 31, 2022.” This indicates that the reporting period ended in December 2022. In addition, the monetary amounts are presented using the dollar sign and the report mentions U.S. regulatory and auditing details, confirming that the currency is United States dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "United States dollars"
+    },
+    "b33bd2220c0fc0939ef08b1bdd8d2ebea158aa59": {
+        "chain_of_thought": "I scanned through the provided annual report excerpt and noted that multiple sections (including the financial statements and the directors’ report) refer to the reporting period as ending on 30 June 2022. This clearly indicates that the last reporting period ended in June of 2022. In addition, several parts of the text reference amounts with the notation A$, as well as a note stating that the financial statements are presented in Australian dollars since that is the company’s functional and presentation currency. Based on this, the end of period is June 2022 and the currency is Australian dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 6
+        },
+        "currency_of_financial_statements": "Australian dollars"
+    },
+    "b947c33b370d8a3251ef9c36ce7d71e8d16f4f8e": {
+        "chain_of_thought": "I reviewed several parts of the annual report and noted that the consolidated financial statements are prepared as of December 31, 2022, and the report repeatedly refers to the fiscal year ending on that date. In addition, all monetary values are preceded by a dollar sign and it is an SEC-form 10-K filing, which by standard is presented in U.S. dollars. Therefore, the reporting period ended in December 2022 and the financial statements are presented in U.S. dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "a85dba6c75031912d56a811637f803ba4ddeb257": {
+        "chain_of_thought": "The front page of the report clearly indicates that the reporting period ended on 31 December 2022. Additional references throughout the report confirm that the financial statements are prepared in pounds (the '£' symbol is used throughout) and, as stated in the accounting policies, the amounts are expressed in pounds sterling. Therefore, the last reporting period ends in December 2022 and the financial information is presented in British pounds sterling.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "British pounds sterling"
+    },
+    "6d76ccb75bbf1b27ca60b8419c5343ac050cebb0": {
+        "chain_of_thought": "I scanned the report pages for the reporting period information and noted multiple references indicating that the fiscal year ended on March 31, 2022. For example, many segments and management discussions reference figures and information as of March 31, 2022. In addition, all financial figures (such as revenue, segment profits, book values, etc.) are denominated in yen (e.g., billions of yen, millions of yen). Therefore, the reporting period ended in March 2022 and the financial statements are presented in Japanese yens.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 3
+        },
+        "currency_of_financial_statements": "Japanese yens"
+    },
+    "f7324f3868005b3aae6aafd30441c9bb6c8823e8": {
+        "chain_of_thought": "I reviewed the excerpts from the annual report – notably the auditor's report, the consolidated financial statements and accompanying notes – and saw multiple references to the reporting period ending on November 30, 2022. This clearly indicates that the last reporting period ended in November 2022. In addition, all monetary amounts are presented with a dollar sign, and the terminology (for example, par value of $1 per share, references to US GAAP, SEC filings, and discussions of US regulatory requirements) confirms that the financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 11
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "c7475e1d98f9a46a4652e503881d4a67232b41d3": {
+        "chain_of_thought": "The report clearly states that it is the Annual Report for the year ended 31 December 2022 – for example, the Consolidated Income Statement and other sections all reference ‘For the year ended 31 December 2022’. This indicates that the last reporting period ended in December 2022. In addition, since NZME stands for New Zealand Media and Entertainment and the report is prepared for a New Zealand company, the financial statements are presented in New Zealand dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "New Zealand dollars"
+    },
+    "4d3e52b69b4b5366e54ce87cf641b01b1419bdee": {
+        "chain_of_thought": "I reviewed the excerpts from the 10-K annual report and noted multiple references to the period ending December 31, 2022 – for example, the consolidated financial statements are dated as of December 31, 2022. This indicates that the last reporting period ended on December 31, 2022. In addition, all monetary values in the financial statements are prefixed with the dollar sign ($) and the numbers (expressed in thousands) correspond to US dollars. Therefore, the financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "67185fca2a09b3c46ee961b2c1ae160dab8b5231": {
+        "chain_of_thought": "I reviewed the information in the excerpt and noted that the financial statements repeatedly mention that the accounts are 'for the year ended 30 November 2022'. This clearly indicates that the reporting period ended on 30 November 2022, so the year is 2022 and the month is November (month 11). In addition, the financial statement amounts are prefixed with the ‘£’ symbol and shown as '£'000' throughout, meaning that the financial statements are presented in British pounds (Pound sterling).",
+        "end_of_period": {
+            "year": 2022,
+            "month": 11
+        },
+        "currency_of_financial_statements": "British pounds"
+    },
+    "9e794a58e511f6a6a9a13b201d652deff9f9f69a": {
+        "chain_of_thought": "Multiple parts of the annual report refer to key dates such as values 'as of December 31, 2022' (for example, outstanding loans, aggregated financial data, etc.). This clearly indicates that the last reporting period ended at the end of December 2022. In addition, the section titled 'Exchange Rate Information' explicitly states that the reporting currency is the Renminbi because all revenues, assets and liabilities are denominated in Renminbi, which is the legal currency of the People’s Republic of China. Thus, the financial statements are presented in Renminbi.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "Renminbi"
+    },
+    "5f226fe96206888930e3baaf0bff70d4b0a1db40": {
+        "chain_of_thought": "I reviewed the provided pages and noticed that multiple sections of the report, including the financial statements and the management discussion and analysis, reference the date December 31, 2022. This date is clearly the end of the fiscal year that is being reported, meaning the reporting period ended in December (month 12) of 2022. In addition, all monetary amounts are shown with a dollar sign and reference U.S. listings (such as Nasdaq), which indicates that the financial statements are presented in U.S. dollars. Therefore, the end-of-period is December 2022 and the currency is US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "9b7fdb871fc4d4a8babc25448257ae0b81a6442d": {
+        "chain_of_thought": "I reviewed the excerpts provided from the 100‐page annual report and looked for indications of the reporting period. Contextual cues – including references to future data disclosures in 2023, along with the common practice for Form 20‐F filings – indicate that the fiscal year under review ended on December 31, 2022. In addition, I noted that several contractual amounts are stated in the ‘£’ currency symbol (for example, the milestone payments in the Cardiff University License are denominated in pounds), which demonstrates that the financial statements are presented in British pounds. Therefore, the end of the last reporting period is December (month 12) 2022 and the financial statements are presented in British pounds sterling.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "British pounds sterling"
+    },
+    "0279901b645e568591ad95dac2c2bf939ef0c00d": {
+        "chain_of_thought": "I reviewed several sections of the provided annual report excerpt – notably the balance sheets, statements of operations, and notes – and saw that the financial statements consistently refer to amounts 'as of December 31, 2022'. This indicates that the end of the reporting period is December 2022. Moreover, all monetary amounts are presented with a dollar sign (for example, par values are expressed as $0.001, and many line items are in thousands of dollars), and the company is a Maryland corporation. Together, these details confirm that the financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "1ab89c81bdb49d4bfba2202eeb8e1c93bed414c7": {
+        "chain_of_thought": "I reviewed numerous parts of the report and noted that almost every financial table and segment – including the headings that specify “Year Ended December 31, 2022” – clearly confirms that the reporting period ended at the end of December 2022. Moreover, all monetary values are shown with a dollar sign and considering the filing with the U.S. SEC as well as the company’s U.S. domicile and operations, the financial statements are presented in U.S. dollars, i.e. United States dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "United States dollars"
+    },
+    "0c0faea14d108e1617f2d6d2a7c1aae04eb88fe0": {
+        "chain_of_thought": "I looked through the annual report excerpt and noted that the financial statements (including the consolidated statement of profit or loss, the statement of financial position, and others) are consistently dated as being for the year ended 30 June 2022. This clearly indicates that the last reporting period ended in June 2022. In addition, the report explicitly states that the financial report is presented in Australian dollars. Therefore, the reporting period end is June 2022 and the currency used is Australian dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 6
+        },
+        "currency_of_financial_statements": "Australian dollars"
+    },
+    "aa781901e117281bfee6f8e4bea6fc9c9bada62e": {
+        "chain_of_thought": "I looked through the report and noted that the financial statements repeatedly refer to the period “for the year ended 31 January 2022” and “as at 31 January 2022,” which indicates that the last reporting period ended at the end of January 2022. In addition, the financial values are represented with the '£' symbol and the report’s registered office is in Basingstoke, Hampshire in the UK, confirming that the financial statements are presented in British pounds sterling.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 1
+        },
+        "currency_of_financial_statements": "British pounds sterling"
+    },
+    "3f36d4f26ada778d89cf5a7344be0b9e9a5223a3": {
+        "chain_of_thought": "I reviewed the document’s financial highlights and compensation sections, which repeatedly reference the year‐end date of December 31, 2022, and noted that all monetary figures are presented with a dollar sign – consistent with US banking reports. Therefore, the last reporting period ended in December 2022 and the financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "6e36d57320ec525da93b3ce2c7269580c746475b": {
+        "chain_of_thought": "By reviewing the proxy statement and the Form 10-K sections in the excerpt, I found multiple references indicating that the financial statements are for the fiscal year ended December 31, 2022, which pinpoints the end-of-period to December 2022. In addition, the text explicitly states that all dollar amounts are expressed in United States currency, and details such as ticker symbol and related financial data further confirm that the financial statements are presented in US dollars. Thus, the last reporting period ended in December 2022 and the financial statements are in United States dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "United States dollars"
+    },
+    "a533b44fe091a8aa62d1fa4f0a3262b311df8bd9": {
+        "chain_of_thought": "I reviewed the provided excerpt and noted multiple references in the financial statements, including the balance sheets and statements of operations, that clearly state they are as of December 31, 2022. This indicates that the last reporting period ended in December 2022. In addition, throughout the document amounts are presented with the dollar sign and denominated in thousands, which is standard for SEC filings of U.S.-based companies. Thus, the financial statements are presented in United States dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "United States dollars"
+    },
+    "1af8f906e34af6e0acfe4f73e37093bbe34700f3": {
+        "chain_of_thought": "I reviewed the provided pages of the annual report and noted that key elements on the cover and in the notes clearly state that the report is for the year ended 30 June 2022. This confirms that the last reporting period ended in June (month 6) of 2022. Moreover, in the accounting policies and foreign currency translation sections (for example, in Note 1 and Note 2) it is explicitly stated that the financial statements are presented in Australian dollars – the functional and presentation currency of BetMakers Technology Group Ltd. Therefore, the end of period is June 2022 and the currency is Australian dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 6
+        },
+        "currency_of_financial_statements": "Australian dollars"
+    },
+    "4e3efdc544140b872a59e124443a64c34f356911": {
+        "chain_of_thought": "The report is titled '2022 Annual Report' and discusses performance throughout 2022, with commentary on the last quarter of the year—implying the financial period ended at the end of 2022, which for a calendar-year bank is December 2022. Additionally, the figures are presented with the '$' symbol and reference US indices and Texas locations, clearly indicating that the financial statements are prepared in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "0f111d244aee3d976684995a222fa177a64571c4": {
+        "chain_of_thought": "I reviewed the content in the report and noticed that early on the report states “For the fiscal year ended December 31, 2022” – this indicates the last reporting period ended on December 31, 2022 (i.e. December 2022). In addition, all the financial values are expressed with the dollar sign and typical US filing notations (for example par value of $0.0001, Nasdaq listing, etc.), so the financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "e7a45fed0d7ebfd13a524e7fcc443318bac654e2": {
+        "chain_of_thought": "The annual financial statements repeatedly reference December 31, 2022 as the balance sheet date and end-of-period date. For example, the Consolidated Balance Sheet and Income Statement include figures as of 12/31/2022, confirming that the reporting period ended in December 2022. In addition, the notes state that all amounts are reported in SEK which stands for Swedish kronor. Therefore, the financial statements are presented in Swedish kronor.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "Swedish kronor"
+    },
+    "99cd0edaf5bfb233e5f46ee55af837de0b725274": {
+        "chain_of_thought": "I reviewed the excerpts of the financial statements and notes and noted that the consolidated balance sheets, income statements, and accompanying disclosures all reference the period ended December 31, 2022. In addition, the report consistently shows figures with the dollar sign and mentions amounts in thousands, and the company is based in Boston, MA, indicating that the financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "b3c406f0cd22d58b25d0f52852e1c4a5d73daf35": {
+        "chain_of_thought": "I examined the provided pages for key phrases that indicate the reporting period end date and the currency. Multiple sections reference figures in dollars and identify the period as ending December 31, 2022. Since the company is a US registrant and all monetary values are prefixed with the dollar sign, the financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "2fd79ae4ebe4943384c119eb1d1e9286ba3c5074": {
+        "chain_of_thought": "I scanned the provided excerpt and found language on the first page indicating that the fiscal year ended on December 31, 2022. This means that the last reporting period ended in December 2022 (month 12, year 2022). Also, all monetary amounts throughout the report are prefixed with a dollar sign and the context (a U.S. bank filing a Form 10‐K) confirms that the financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "13999998018cc53440310d94a26d1e8957e2277f": {
+        "chain_of_thought": "I reviewed the excerpts from the annual report and noted that many of the financial statements – the consolidated balance sheet, income statement, and cash flow statements – are dated “as of December 31, 2022” or refer to the “Twelve Months Ended December 31, 2022.” This indicates that the last reporting period ended in December 2022. In addition, all monetary amounts are presented with the $ symbol and the context (listing on Nasdaq, company headquartered in Pittsburgh, Pennsylvania) confirms that the figures are in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "f85f0ccbbc59f1423d52d44e5ab70e3a01164499": {
+        "chain_of_thought": "Throughout the excerpt, the financial statements are repeatedly titled with phrases such as \"For the year ended December 31, 2022\" and all numeric values are presented with a dollar sign, which is the typical convention in United States disclosures filed with the SEC. This clearly indicates that the last reporting period ended in December 2022 and that all financial amounts are expressed in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "980742aa08ea64d552c153bcefbd7e8243fb9efd": {
+        "chain_of_thought": "I reviewed the provided pages of the annual report and noted multiple references to the period ending December 31, 2022 (for example, on the table of contents and in the consolidated report sections). This confirms that the last reporting period ends in December 2022. In addition, I observed that the financial figures are consistently expressed in Euros (e.g., revenue in MN. EURO, par values noted in €, and other financial items quoted in Euro thousands or millions). Therefore, the reporting currency is Euros.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "Euros"
+    },
+    "e2850fff8d9dee77f3a6520d0b1aba46adddc2c0": {
+        "chain_of_thought": "I located the end of the reporting period at the top of the report on page 0 and in multiple sections, which clearly state '30 JUNE 2022'. This indicates that the last reporting period ended in June 2022. Additionally, the note on page 18 explicitly states that the financial statements are presented in Australian dollars, confirming the currency used.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 6
+        },
+        "currency_of_financial_statements": "Australian dollars"
+    },
+    "553afbf09b6d83166b17acb02431c6cf38e4defc": {
+        "chain_of_thought": "I scanned through the report’s excerpt and identified the date at the beginning of the report stating “For the fiscal year ended: December 31, 2022”. This clearly indicates that the last reporting period ended in December 2022. In addition, all monetary figures are presented with a dollar sign (e.g., $52,153,000, $27,299,000, etc.) and the disclosures (such as addresses and SEC filings) confirm that the report is filed in the United States. Therefore, the financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "ddd10e4612006205c4b1ba050a11648071e6e429": {
+        "chain_of_thought": "I scanned through the report’s sections and noted several references to the reporting period. For example, the Section 172 Statement (page 9) clearly states 'For the year ended 31 December 2022' and the financial statements (e.g. the Consolidated Income Statement and other parts) consistently refer to the period ending on 31 December 2022. This indicates that the last reporting period ended in December 2022. In addition, several notes – including the summary of accounting policies – clarify that the presentation and functional currency is the British Pound (indicated by the £ symbol and explicit mention of 'Sterling'). Thus, the financial statements are presented in British pounds sterling.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "British pounds sterling"
+    },
+    "682de8e45fd9688f3452bc0e18257132a8f3cff6": {
+        "chain_of_thought": "I reviewed the report and noted that Sonic Automotive, Inc.'s consolidated financial statements report results for the fiscal year ended December 31, 2022. This means that the last reporting period ended in December 2022. In addition, all monetary amounts throughout the statements are expressed in US dollars, as indicated by headings such as 'Dollars in millions' and typical US GAAP presentation for an SEC filing.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "30f64d1043f4cb425eb636763580ae27094ffef1": {
+        "chain_of_thought": "The annual report states that the Company’s fiscal year for 2022 ended on July 3, 2022. Since only the year and month are required, this reporting period ended in July 2022. In addition, since 1-800-FLOWERS.COM, Inc. is a U.S. company filing with the SEC and all financial figures are presented with the dollar sign and in thousands (e.g., $2,207,885), the financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 7
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "d5ad1d288230072e3f6654bb6182d76f8af2ba0a": {
+        "chain_of_thought": "The report’s financial statements clearly state that the reporting period is for the year ended 31 March 2022 – for example, the Statement of Comprehensive Income and the Statement of Financial Position both refer to 31 March 2022, and share figures are expressed in pence and pounds. Furthermore, the notes mention that the financial statements are prepared in Sterling, indicated by the '£' symbol and references to 10p per share. Thus, the period end is March 2022 and the financial statements are presented in British pounds sterling.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 3
+        },
+        "currency_of_financial_statements": "British pounds sterling"
+    },
+    "74c690176ce433301f4d1e808bb002a2f4dc321a": {
+        "chain_of_thought": "I searched the provided excerpt for any indication of the reporting period end date and found a mention of financial results for the twelve months ended December 31, 2022. That indicates that the last reporting period ended in December 2022. In addition, all monetary amounts are denoted with the dollar sign and there is no indication of a non‐US dollar currency; given that Kiniksa Pharmaceuticals is a US-listed company and the figures (such as net income of $183.4 million) are expressed in dollars, the financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "d14ae2b6284e48b5c1e6659a0a5863d84697b3b9": {
+        "chain_of_thought": "I examined the report’s headings and notes, which repeatedly indicate that the financial statements cover the period ending December 31, 2022. In addition, the statements specify that all tabular amounts are in thousands of Canadian dollars. Therefore, I concluded that the last reporting period ended in December 2022 and the financial statements are presented in Canadian dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "Canadian dollars"
+    },
+    "1bd670f9cdf088266db849722c3aded77a2f4894": {
+        "chain_of_thought": "The report repeatedly states that the financial statements are 'for the year ended 31 March 2022', which indicates that the reporting period concluded on March 31, 2022. This means the year is 2022 and the month is March (the third month of the year). In addition, the note on functional and presentation currency confirms that the financial statements are presented in Australian dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 3
+        },
+        "currency_of_financial_statements": "Australian dollars"
+    },
+    "36dd058d3237202cbb94139611c8b8a35ff8c158": {
+        "chain_of_thought": "I reviewed the early part of the report where it clearly states that it is the Annual Report for the fiscal year ended December 31, 2022, which indicates that the last reporting period ended in December 2022. In addition, the financial figures throughout the report are noted with a dollar sign and the company is publicly traded on Nasdaq, confirming that the financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "0a61a353b1ea9fd9b8f63b60239634ca3007d58f": {
+        "chain_of_thought": "Reviewing multiple sections of the excerpt, the Directors' Report and the Consolidated Statements show that the financial year ended on 30 June 2022. This is referenced in several places including the profit or loss statement and auditor’s report. In addition, the company is an Australian entity (referencing the Corporations Act 2001 (Cth)), and the amounts are presented in dollars. Therefore, the financial statements are presented in Australian dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 6
+        },
+        "currency_of_financial_statements": "Australian dollars"
+    },
+    "c8af22dbedd95ee719273792e5964ab8bbba17b2": {
+        "chain_of_thought": "After reviewing the provided pages, the report clearly indicates that the last reporting period ended on 30 June 2022 – this is evident from the cover information and numerous statements referencing the period ending on that date. In addition, the notes in the financial statements specify that the financial statements are presented in Australian dollars. Considering the company’s Australian location and currency references throughout the report, it is confirmed that the statements are in Australian dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 6
+        },
+        "currency_of_financial_statements": "Australian dollars"
+    },
+    "696ddc4c80febe0f1559ed3b1272487c74ca91cc": {
+        "chain_of_thought": "We reviewed the report excerpt and found multiple references to dates. For example, many tables state figures “as at 31 December 2022” and the key periods are given as 1 January to 31 December 2022, indicating that the reporting period ended in December 2022. In addition, all financial data are presented with the euro symbol (€), which confirms that the financial statements are prepared in Euros.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "Euros"
+    },
+    "105688726e097505beef4934896193ac51295037": {
+        "chain_of_thought": "I reviewed the cover and introductory pages of the report and noted the phrase 'For the Year Ended 30 June 2022'. This indicates that the reporting period ends in June (month 6) 2022. In addition, the notes to the financial statements confirm that the statements are presented in Australian dollars. Therefore, the end period is June 2022 and the currency is Australian dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 6
+        },
+        "currency_of_financial_statements": "Australian dollars"
+    },
+    "ecabab4934d4b80570c4bb3b8e35b7476694b3fb": {
+        "chain_of_thought": "I reviewed the provided pages of the annual report and noticed that the consolidated balance sheets, statements of operations, cash flows, and many other line items refer to data “as of December 31, 2022” along with comparative figures for December 31, 2021. This clearly indicates that the end of the last reporting period is December 2022 (i.e. December 31, 2022). In addition, the financial figures are marked with the dollar sign ($) and the reporting includes US-specific accounting standards and references (e.g., SEC, GAAP, U.S. credit agreements). These factors confirm that the financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "6529fba868216a923407fb0d4e15a811a8e89ebc": {
+        "chain_of_thought": "I looked through the report’s headers and notes and observed that many key tables and disclosures explicitly state that the financial statements are for the year ended 30 September 2022 – for example, the Consolidated Statement of Profit or Loss and later discussions refer to performance over the period ending 30 September 2022. This clearly indicates that the last reporting period ended in September 2022 (month 9, year 2022). In addition, the notes to the financial statements section states that all amounts are expressed in Australian dollars – meaning that the financial statements are presented in Australian dollars. Therefore, the end of the reporting period is September 2022 and the currency is Australian dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 9
+        },
+        "currency_of_financial_statements": "Australian dollars"
+    },
+    "e7f655f43bc2abf6216519187d9fc907e9224937": {
+        "chain_of_thought": "I reviewed the excerpt and noted that the financial statements consistently refer to performance metrics for the year ended December 31, 2022 (for example, the Balance Sheets, Statements of Operations, MD&A, and various note headings all indicate December 31, 2022 as the reporting date). This indicates that the last reporting period ended in December 2022. In addition, headings such as “Consolidated Balance Sheets (Dollars in thousands, except per share amounts)” confirm that the amounts are presented in dollars. Since there is no other designation (for example, Canadian dollars or Australian dollars) and based on the context it is clear that the report is filed by a U.S. company, we conclude that the financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "c5fc5890205fe5326d690fc017f7153fb09924e4": {
+        "chain_of_thought": "I reviewed the excerpts and noted that the financial statements compare figures for 2022 and 2021 and include references such as ‘for the year ended 31 December 2022’ as well as commentary throughout the report (for example in discussions of profit before tax, claims, dividends, etc.). This confirms that the last reporting period ended in December 2022. In addition, several passages – including one specifically discussing foreign exchange – state that the majority of the business is transacted in US dollars and that the company has reported in US dollars since 2010. Therefore, the financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "e273ed0d9626b9feaf50c09405c2b70d461e41d7": {
+        "chain_of_thought": "The report’s very first page (page 0) clearly states “Year ended March 31, 2022,” which indicates that the last reporting period ended in March 2022. In addition, the financial highlights section repeatedly refers to amounts in ‘billion yen’ (for example, net sales of 3,337.0 billion yen and operating income in billions of yen), confirming that the financial statements are presented in Japanese yens.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 3
+        },
+        "currency_of_financial_statements": "Japanese yens"
+    },
+    "f6a1077a46cb36761604f8f4840698e22837f5f7": {
+        "chain_of_thought": "I looked through the report and found multiple references to the ‘year ended 30 June 2022’ in the consolidated financial statements, directors’ declaration, and elsewhere. This clearly indicates that the last reporting period ended in June 2022. Also, because the company is listed on the Australian Securities Exchange (ASX) and the report uses the dollar sign in an Australian context (with locations in Sydney, NSW), the financial statements are presented in Australian dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 6
+        },
+        "currency_of_financial_statements": "Australian dollars"
+    },
+    "31a60b930e0f1034afff6e2d1e406e7d9141b2a1": {
+        "chain_of_thought": "The cover page of the report clearly states that it is for the fiscal year ended December 31, 2022, which indicates that the reporting period ended in December (month 12) of 2022. Additionally, all the financial data (e.g., numbered amounts with the '$' symbol, SEC filing, and trading on the New York Stock Exchange) confirm that the financial statements are reported in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "1a12ef3f11a64e92eeca39e493a17d2860c014a6": {
+        "chain_of_thought": "The report repeatedly compares financial performance for the years ended December 31, 2022, 2021, and 2020 and clearly presents consolidated financial statement values as of December 31, 2022. Therefore the last reporting period ended on December 31, 2022. In addition, all monetary values are denoted with the dollar sign, and terms such as 'dollars in thousands' are used consistently throughout the report, indicating that the financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "7792e23f8a40fb9461dbc26f417b0fb948f54f46": {
+        "chain_of_thought": "I scanned the report text for the reporting period end date and found multiple references indicating that the fiscal year covered is the one ended January 31, 2022. This tells us that the last reporting period ended in January 2022 (i.e. month 1 of 2022). In addition, throughout the financial tables and notes the values are reported in dollars, with several instances of conversion (such as amounts for certain executives being converted from Swiss francs into US dollars using an exchange rate) and the company’s principal address being in New York with references to Nasdaq. All of these confirm that the financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 1
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "c06d5ad4b6408fec26675d30b37a6042c007095a": {
+        "chain_of_thought": "Several parts of the report explicitly reference the date “30 June 2022” as the period‐end date (for example, the consolidated statements state 'as at 30 June 2022' and the profit or loss statement is for the year ended 30 June 2022). In addition, the company is listed on the ASX with an Australian Company Number (ACN), and the notes mention aspects of foreign currency translation that confirm the presentation is in Australian dollars. Therefore, the reporting period ended in June 2022, and the financial statements are presented in Australian dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 6
+        },
+        "currency_of_financial_statements": "Australian dollars"
+    },
+    "e117005fc313bf0d49429d34bc8e1ef64de54898": {
+        "chain_of_thought": "I reviewed the provided pages of the annual report and noted that the consolidated balance sheets, statements of operations, and other key disclosures repeatedly refer to figures as of December 31, 2022. This indicates that the last reporting period ended on December 31, 2022 – meaning the month is December and the year is 2022. In addition, the financial statements refer to amounts in dollars (for example, common stock is noted as having a $0.01 par value and all monetary data is expressed in dollar terms) and there is reference to US GAAP and the NYSE. Thus, the statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "91ba1d46cdde9c1c0cf34f6bcc107741244f8f3d": {
+        "chain_of_thought": "The annual report contains several tables and headings that repeatedly refer to results for the period “Year Ended December 31, 2022” (for example, in the tables comparing 2022 to 2021) which indicates that the last reporting period ended on December 31, 2022. In addition, the financial tables normally include the note ‘All figures in USD ’000’ and other references that confirm the currency used is USD. Thus, the period ends in December 2022 and the financial statements are presented in United States dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "United States dollars"
+    },
+    "35839effbc332f23d5f34263aab3dcb2c6976420": {
+        "chain_of_thought": "By reviewing the consolidated financial statements and accompanying tables, I found that the report provides data for the fiscal year ended December 31, 2022. This indicates that the last reporting period ended on December 31, 2022, meaning the month is December (which is month 12) and the year is 2022. In addition, all figures including net revenue, expenses, and other amounts are expressed with the '$' sign; considering Blue Apron is a US-based company and follows US GAAP, the financial statements are presented in US dollars (United States dollars).",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "cc0fc5888b99758100a7ff024863fc4337b6b3c5": {
+        "chain_of_thought": "I carefully reviewed the multiple pages of the annual report excerpt and noted that many financial figures (e.g. the balance sheet, cash flows, net debt) are explicitly dated as of 31 December 2022. This confirms that the end of the reporting period is December 2022. Additionally, all monetary figures are indicated with the Euro symbol (€), confirming that the financial statements are presented in Euros.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "Euros"
+    },
+    "ded965ce7e3ea0ad9b83272b8c36f529793a2887": {
+        "chain_of_thought": "I reviewed the content of the excerpt – numerous references in tables and discussions in the report indicate that the financial statements are as at 31 December 2022. In particular, many amounts are reported in '€' units, which confirms that the statements are prepared in Euros.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "Euros"
+    },
+    "ad1613dac24a1349ec293100e3ea19fe913bb930": {
+        "chain_of_thought": "We looked through the financial statements and related notes in the report and noted that the Consolidated Balance Sheets, Consolidated Statements of Income and other statements are stated as of December 31, 2022. This shows the end of the last reporting period is December 2022 (month 12, year 2022). Moreover, all monetary amounts are represented with the dollar sign and the context (a Delaware corporation filing with the SEC, NASDAQ listing, US-based operations) confirms that the financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "f9736aa2f56c40b127bced09ce1c8e8cbf7aa0e3": {
+        "chain_of_thought": "The annual report repeatedly refers to financial figures as of December 31, 2022 – for example, the consolidated balance sheets and the statements of operations present data as of December 31, 2022. This confirms that the end‐of‐period date is December 2022 (i.e. month 12, year 2022). Also, throughout the report amount figures are preceded by the '$' symbol, the par value is given in dollars (eg, $0.001 per share), and the company is based in the United States. Therefore, the financial statements are presented in United States dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "United States dollars"
+    },
+    "f015d4bfeec43fe65c003b6f4420ae864efbb58f": {
+        "chain_of_thought": "The report is the 2022 Annual Report on Form 10-K. Throughout the report (for example, on the cover page and in the Form 10-K details) it states that it is for the fiscal year ended December 31, 2022; therefore, the reporting period ended in December 2022. In addition, the financial statements use the dollar sign and refer to a $.01 par value which, along with the fact that the company is located in Norcross, Georgia and files with the SEC, indicates that the figures are in US dollars. Thus, the financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "3e5ccdb58faf901e75e31f154cb8330869ca5efa": {
+        "chain_of_thought": "Multiple sections of the report consistently refer to the financial statements as being for the year ended 30 June 2022 – for example, the statement of profit or loss and statement of financial position both clearly state the period ended 30 June 2022. In addition, the exchange rate tables and notes reference AUD paired with other currencies (such as AUD:CAD and AUD:USD), and amounts are presented in dollars using the AUD unit. Therefore, the financial statements are presented in Australian dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 6
+        },
+        "currency_of_financial_statements": "Australian dollars"
+    },
+    "8f5e29eea4f4a3e944707c71148439ca1fd4b2d8": {
+        "chain_of_thought": "I reviewed the provided excerpt paying attention to the dates on the financial statements. The consolidated balance sheets and the income statements are prepared as at May 7, 2022, which indicates that the last reporting period ended in May 2022. In addition, throughout the report the figures are noted as being expressed in 'millions of Canadian dollars', so the financial statements are presented in Canadian dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 5
+        },
+        "currency_of_financial_statements": "Canadian dollars"
+    },
+    "7be0f16625505fb48ad135c1a3fccd75ce06671c": {
+        "chain_of_thought": "I reviewed the report and found numerous references to the fiscal period ending on December 31, 2022 – for example, the heading on the Form 10-K states that the fiscal year ended on December 31, 2022 and the financial statement data is consistently presented for that period. Given that this is a US SEC report for a Texas‐based company and the amounts are shown with the dollar sign, they are clearly presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "e21ac6c083a56192fab027ebd2ab0fad71de5d7d": {
+        "chain_of_thought": "We reviewed multiple pages of the report and noted that the consolidated financial statements, balance sheets, and related disclosures all refer to dates “as at December 31, 2022”. In addition, the notes (for example, in the section on significant accounting policies) state that all dollar amounts are presented in Canadian dollars unless otherwise indicated. Therefore, the last reporting period ended in December 2022 and the financial statements are presented in Canadian dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "Canadian dollars"
+    },
+    "53a00624418f6c5c2d044344a4125bba7743614f": {
+        "chain_of_thought": "I carefully reviewed the report and noted on the Form 10-K and various pages that the financial statements are presented for the fiscal year ended December 31, 2022. The report repeatedly uses the ending date December 31, 2022 as the close of its reporting period. Moreover, all dollar amounts are shown with the $ symbol and reference to US GAAP confirms that the expenditures and figures are denominated in dollars. Since the company is based in Virginia and is filing with the SEC, the currency is United States dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "United States dollars"
+    },
+    "23b2c590c4887dfb86761730dd7156fe3b216ab7": {
+        "chain_of_thought": "I reviewed the excerpt and noted on page 6 the SEC Form 10-K header stating 'For the fiscal year ended December 31, 2022'. In addition, throughout the report dollar amounts are noted using the dollar sign and the address and regulatory context confirm that the amounts are in US dollars. Therefore, the last reporting period ended in December 2022 and the financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "0981826b4b43a88920f3e01c71ae73539bab84cc": {
+        "chain_of_thought": "I reviewed the MD&A, the balance sheet, and related financial statements which consistently refer to the period ending December 31, 2022. This indicates that the reporting period ended in December 2022. In addition, all monetary amounts are reported with a dollar sign and include references to US-specific benchmarks such as LIBOR and US Treasury rates. These details confirm that the financial statements are presented in United States dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "United States dollars"
+    },
+    "f879b3a802ccd6e8e6ca0a07ed8464318b7c0724": {
+        "chain_of_thought": "I scanned the report and noted that the cover page states 'Annual Report For the year ended 30 June 2022'. This indicates that the reporting period ended on June 30, 2022 (month 6, year 2022). Later in the notes (for example, in Note 1) it is clearly stated that all amounts are presented in Australian dollars. Thus, the financial statements are presented in Australian dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 6
+        },
+        "currency_of_financial_statements": "Australian dollars"
+    },
+    "9af0a7f8db3954c3e74851c8c1807a09ece8ef00": {
+        "chain_of_thought": "I reviewed the report cover and key sections of the annual 10-K filing. The cover page clearly states 'For the fiscal year ended December 31, 2022' which indicates that the last reporting period ended in December 2022 (i.e. month 12 of 2022). In addition, all financial figures are presented with a dollar sign and specific notes (for example, common stock having a par value of $0.01 per share) and various sections explicitly mention that amounts are in dollars. Therefore, the consolidated financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    },
+    "da663e46fbf02ec8a90b3f3c1079ef4c9f7907e1": {
+        "chain_of_thought": "I reviewed the annual report excerpt and noted on page 8 that the report explicitly states 'For the fiscal year ended: December 31, 2022,' which indicates that the last reporting period ended on December 31, 2022 (December being the 12th month). In addition, throughout the financial data—such as in the table of Financial Highlights on page 2—the amounts are preceded by symbols such as ‘US $’, and there is a reference to 'US dollars' (for example, the tables mention values in ‘US $ million’), confirming that the financial statements are presented in US dollars.",
+        "end_of_period": {
+            "year": 2022,
+            "month": 12
+        },
+        "currency_of_financial_statements": "US dollars"
+    }
+}
